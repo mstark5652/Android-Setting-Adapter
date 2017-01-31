@@ -5,6 +5,8 @@
 /.idea/libraries
 .idea/dictionaires/
 /.idea/dictionaries/
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/**
 .DS_Store
 /build
 /captures
