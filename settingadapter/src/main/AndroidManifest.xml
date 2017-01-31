@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.settingadapter">
+
+    <application android:label="@string/app_name">
+
+        <activity
+            android:name="com.example.settingadapter.ui.SettingItemFragment"/>
+
+    </application>
+
+</manifest>
